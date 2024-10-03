@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="description" content="Stanford ballet student group">
+  <meta name="keywords" content="cardinal ballet, cbc, stanford dance, ballet">
+
+  <title>Cardinal Ballet Company</title>
+
+  <!-- FONTS -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- STYLES -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="scss/index.css?version=2.1.2">
+</head>
+
+<body>
+  <div class="animated-intro">
+    <img src="img/logo_animated.svg" width="102" height="108" alt="Cardinal Ballet Company logo">
+  </div>
+
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <a class="navbar-brand" href="#">
+      <img src="img/logo.svg" width="51" height="54" alt="Cardinal Ballet Company logo">
+    </a>
+
+    <!-- Hamburger for collasped menu -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Uncollapsed menu links -->
+    <div class="collapse navbar-collapse justify-content-end" id="main-nav">
+        <a class="nav-item nav-link" href="#section-about">About</a>
+        <a class="nav-item nav-link" href="#section-dancers">Dancers</a>
+        <a class="nav-item nav-link" href="#section-videos">Videos</a>
+        <a class="nav-item nav-link" href="#section-photos">Photos</a>
+    </div>
+
+  </nav>
+
+  <div id="header" class="dark"> <!-- background-image gets set in main.js -->
+    <div id="header-gradient"></div>
+    <div id="header-content" class="w-100 text-right">
+      <h1>Cardinal Ballet Company</h1>
+      <h4 class="">@ Stanford University</h4>
+    </div>
+  </div>
+
+  <div class="dark">
+
+
+
+
+
+      <section id="section-about">
+        <div id="about-tagline" class="text-center">
+          Founded in 1993, <b>Cardinal Ballet Company</b> is Stanford’s first and only classical ballet company.
+        </div>
+
+        <div class="container-fluid">
+          <div class="row align-items-center">
+
+            <div id="about-description" class="text-left col-md-5">
+              <h3 class="">About</h3>
+              <p>
+                Cardinal Ballet Company (CBC) is Stanford's first and only ballet company.
+                Founded in 1993 and composed entirely of students, CBC is home to dancers from diverse backgrounds and training ranging from classical to contemporary.
+                <br><br>
+                In addition to our 2 major full-length productions every year (the <b class="highlight">Nutcracker</b> in the fall and a <b class="highlight">second full-length ballet</b> in the spring),
+                we also offer opportunities for <b class="highlight">student choreography</b> in various forms.
+                <br><br>
+                Our mission is to bring dancers together who love performing and share our art with the community.
+              </p>
+              <h3 class="">CBC Don Quixote 2024</h3>
+              <p>
+                Thank you for an amazing season! Watch our Don Quixote 2024 performances and more on the Cardinal Ballet YouTube channel!
+              </p>
+
+              <a href="https://youtu.be/2XrcAsFuxvA?si=oXvYZoV5asUSwKOr">
+                Don Quixote 2024 (Evening Show) <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+
+            <div id="about-photo" class="col-md-7">
+              <img src=""> <!-- src gets set in main.js -->
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <br>
+
+    </div>
+
+    <!-- <div class="dark arrow"></div> -->
+
+    <div class="light">
+      <section id="section-dancers">
+        <div id="dancers-title">
+          <h3 class="text-center">Dancers</h3>
+          <p class="text-center">Click on a dancer below to learn more about them!</p>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <!-- Dancers are dynamically placed here via dancers.csv (see main.js) -->
+          </div>
+        </div>
+      </section>
+    </div>
+
+<div class='dark'>
+  <section id="section-contact">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+
+            <div id="contact-description" class="text-left col-md-5">
+              <h3 class="">CONNECT WITH US</h3>
+              <p>
+                Follow CBC's shows, dancers, and outreach by following social media platforms:
+              </p>
+
+              <a href="https://www.instagram.com/cbc_stanford/">
+                Instagram <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </a>
+              <br><br>
+              <a href="https://www.facebook.com/cardinalballetcompany/">
+                Facebook <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </a>
+              <br><br>
+              <a href="https://www.youtube.com/channel/UCLlNKZeF5LvlrRhPGqVDgeA">
+                YouTube <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+
+            <div id="contact-photo" class="col-md-7">
+              <img src="img/contact.jpg" width="100%">
+            </div>
+
+          </div>
+        </div>
+      </section>
+    </div>
+
+      <!--**************** BEGIN: EDIT VIDEOS ****************-->
+    <div class='light'>
+      <section id="section-videos">
+        <h3 class="text-center">Videos</h3>
+
+        <div class="container-fluid">
+          <div class="row">
+            <a class="video col-md-4" target="_blank" href="https://youtu.be/2XrcAsFuxvA?si=oXvYZoV5asUSwKOr">
+              <div class="video">
+                <div class="thumbnail">
+                  <img src="img/videos/don_q_24_vid.jpg">
+                  <div class="play-button"></div>
+                </div>
+                <p>2024 CBC Don Quixote</p>
+              </div>
+            </a>
+            <a class="video col-md-4" target="_blank" href="https://youtu.be/cVYwSzKpkZI?si=f6rsacLG23JRxbFW">
+              <div class="video">
+                <div class="thumbnail">
+                  <img src="img/videos/nutcracker_23_vid.jpg">
+                  <div class="play-button"></div>
+                </div>
+                <p>2023 CBC Nutcracker</p>
+              </div>
+            </a>
+
+            <a class="video col-md-4" target="_blank" href="https://youtu.be/Icbb3yyhPBs?si=C3nOblnpod5JQmfe">
+              <div class="video">
+                <div class="thumbnail">
+                  <img src="img/videos/swan_lake_vid.jpg">
+                  <div class="play-button"></div>
+                </div>
+                <p>2023 CBC Swan Lake</p>
+              </div>
+            </a>
+          </div>
+      <!--**************** END: EDIT VIDEOS ****************-->
+
+          <p>
+            View previous Nutcracker and spring shows on our <a target="_blank" href="https://www.youtube.com/channel/UCLlNKZeF5LvlrRhPGqVDgeA">YouTube channel
+            <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </p>
+        </div>
+      </section>
+    </div>
+
+    <div class="dark">
+      <section id="section-photos">
+        <h3 class="text-center">Photos</h3>
+
+        <div class="container-fluid">
+          <p class="text-center">
+            Performance photographs courtesy of <a target="_blank" href="http://www.alponce.com/">Alvaro Ponce</a>, Nick Salazar, and Frank Chen. <br>
+            Rehearsal and social event photographs courtesy of Stephanie Hsiang and Emma Dauterman.
+          </p>
+
+          <!-- Buttons to switch between galleries -->
+          <div class="container">
+            <div class="row">
+              <nav id="filter" class="col-md-12 text-center">
+                <button type="button" id="nut19button" class="current btn btn-sm">Nutcracker 2019</button>
+                <button type="button" id="donq19button" class="btn btn-sm">Don Quixote 2019</button>
+                <button type="button" id="nut18button" class="btn btn-sm">Nutcracker 2018</button>
+                <button type="button" id="cdf18button" class="btn btn-sm">Cardinal Dance Fusion 2018</button>
+              	<button type="button" id="nut17button" class="btn btn-sm">Nutcracker 2017</button>
+                <button type="button" id="cdf17button" class="btn btn-sm">Cardinal Dance Fusion 2017</button>
+                <button type="button" id="nut16button" class="btn btn-sm">Nutcracker 2016</button>
+                <button type="button" id="cdf16button" class="btn btn-sm" >Cardinal Dance Fusion 2016</button>
+                <button type="button" id="nut15button" class="btn btn-sm">Nutcracker 2015</button>
+                <button type="button" id="social15button" class="btn btn-sm">Rehearsals and Social Events 2015-2016</button>
+                <button type="button" id="cdf15button" class="btn btn-sm">Cardinal Dance Fusion 2015</button>
+                <button type="button" id="nut14button" class="btn btn-sm">Nutcracker 2014</button>
+                <button type="button" id="cdf14button" class="btn btn-sm" >Cardinal Dance Fusion 2014</button>
+                <button type="button" id="photoshoot13button" class="btn btn-sm" >Photoshoot 2013</button>
+              </nav>
+            </div>
+
+            <!-- Juicebox photo gallery -->
+            <div id="juicebox-container"></div>
+          </div>
+
+        </div>
+
+      </section>
+    </div>
+
+    <div id="footer" class="light text-center">
+      <a href="mailto:cbc-directors@lists.stanford.edu" class="social btn btn-sm"><i class="fa fa-envelope"></i></a>
+      <a target="_blank" href="https://www.facebook.com/cardinalballetcompany" class="social btn btn-sm"><i class="fa fa-facebook"></i></a>
+      <a target="_blank" href="https://www.youtube.com/channel/UCLlNKZeF5LvlrRhPGqVDgeA" class="social btn btn-sm"><i class="fa fa-youtube"></i></a>
+      <a target="_blank" href="https://www.instagram.com/cbc_stanford/" class="social btn btn-sm"><i class="fa fa-instagram"></i></a>
+      <br>
+      Copyright <i class="fa fa-copyright"></i> 2020 by Cardinal Ballet Company
+    </div>
+
+    <div class="modal" id="dancer-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="container">
+              <div class="row">
+                <!-- Information is dynamically filled when modal show event is triggered (see main.js) -->
+                <div class="col-md-4">
+                  <img id="bio-photo" src="">
+                </div>
+                <div class="col-md-8">
+                  <h5 id="bio-name"></h5>
+                  <p id="bio-major"></p>
+
+                  <h5>Hometown</h5>
+                  <p id="bio-hometown"></p>
+
+                  <h5>Dance background</h5>
+                  <p id="bio-background"></p>
+
+                  <h5>Favorite CBC/dance memory</h5>
+                  <p id="bio-memory"></p>
+
+                  <h5>Fun fact</h5>
+                  <p id="bio-fact"></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <!-- JAVASCRIPT -->
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+  <script src="jbcore_folder/jbcore/juicebox.js?version=1.7.0"></script>
+  <script src="js/papaparse.min.js"></script>
+  <script src="js/main.js?version=2.2"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,468 @@
+/*==============================================*/
+/*=============== SASS VARIABLES ===============*/
+/*==============================================*/
+$font-stack              : Rubik, sans-serif;
+
+$light-text-color        : white;
+$medium-text-color       : #5E5E5E;
+$dark-text-color         : #2A2A2A;
+$featured-highlight-color: #89ACF7; // light blue
+$about-highlight-color   : #FD92BD; // pink
+$dark-red                : #9B0909;
+$light-red               : #ED9CA2;
+$dancers-highlight-color : $dark-red;
+
+$dark-background-color   : #010103; // very dark blue
+$light-background-color  : #F9F9F9; // very light gray
+
+
+
+/*==============================================*/
+/*=================== MIXINS ===================*/
+/*==============================================*/
+// Set the color of a link
+@mixin anchor-color($color) {
+	color: $color;
+	&:hover { color: darken($color, 10%); }
+}
+
+// Top-to-bottom gradient
+@mixin gradient($top-color, $bottom-color) {
+	background: $top-color; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient($top-color, $bottom-color); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient($top-color, $bottom-color); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient($top-color, $bottom-color); /* For Firefox 3.6 to 15 */
+  background: linear-gradient($top-color, $bottom-color); /* Standard syntax */
+}
+
+// Box shadow (from https://gist.github.com/garyharan/957284)
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+@mixin down-arrow($arrow-color, $background-color, $height) {
+	position: relative;
+
+	// Use top border trick to add a down-facing triangle after the div
+	&:after {
+		content: "";
+		width: 0;
+		position: absolute;
+		bottom: -1 * $height;
+
+		border-top: $height solid $arrow-color;
+		border-left: 720px solid $background-color;
+		border-right: 720px solid $background-color;
+	}
+}
+
+
+/*==============================================*/
+/*=============== GENERAL STYLES ===============*/
+/*==============================================*/
+html, body {
+	// Text
+	font: 100% $font-stack;
+	color: $dark-text-color;
+	font-weight: 400;
+
+	width: 100%; height: 100%;
+	background-color: $dark-background-color;
+}
+
+/*======= Colors =======*/
+.dark {
+	color: $light-text-color;
+	background-color: $dark-background-color;
+	font-weight: 300; // use thinner text on dark backgrounds
+	a { font-weight: 400;	}
+	padding: 8rem 0;
+}
+
+.light {
+	color: $dark-text-color;
+	background-color: $light-background-color;
+	padding: 8rem 0;
+}
+
+/*======= Header text styles =======*/
+h1, h2, h3 {
+	font-weight: 500;
+}
+
+h3, h4 {
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 3.6rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-size: 1.7rem;
+	margin-bottom: 2.5rem;
+}
+
+h4 {
+	font-size: 1.2rem;
+	font-weight: 400;
+}
+
+/*======= Paragraph text styles =======*/
+p {
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
+b { font-weight: 500; }
+
+/*======= Link text styles =======*/
+a:hover {
+	text-decoration: none;
+}
+
+// Arrow that comes after links
+.fa-arrow-right {
+	margin-left: 5px;
+}
+
+.container-fluid {
+	padding: 0 5rem;
+}
+
+.dark.arrow {
+	// @include down-arrow($dark-background-color, $light-background-color, 80px);
+}
+
+
+/*==============================================*/
+/*=============== ANIMATED INTRO ===============*/
+/*==============================================*/
+@keyframes intro {
+	0% { opacity: 1; z-index: 2000; } // above Bootstrap navbar
+	50% { opacity: 1; z-index: 2000; }
+	100% { opacity: 0; z-index: -1;  } // go behind everything
+}
+
+.animated-intro {
+	z-index: -1;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	background-color: $dark-background-color;
+	opacity: 0;
+	text-align: center; // horizontal align
+
+	animation-name: intro;
+	animation-duration: 5s;
+
+	img {
+		position: absolute;
+		// vertical align trick
+		top: 50%; left: 50%;
+		transform: translate(-50%, -50%);
+	}
+}
+
+
+/*==============================================*/
+/*=================== NAVBAR ===================*/
+/*==============================================*/
+.navbar {
+	// Increase left-right padding
+	padding: .9rem 2rem;
+	background-color: rgba(1,1,3,0);
+
+	#main-nav {
+		a {
+			color: white;
+			&:hover { color: $light-red; }
+		}
+	}
+}
+
+
+
+/*==============================================*/
+/*=================== HEADER ===================*/
+/*==============================================*/
+#header {
+	// Set background image
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+
+  // Change background image size to fill entire browser height
+  min-height: 100%;
+
+  // Positional reference for gradient div and header text
+  position: relative;
+
+  #header-gradient {
+  	position: absolute;
+  	bottom: -1px; // hide the bottom sliver of white pixels
+  	left: 0;
+
+  	width: 100%;
+  	height: 25%;
+
+  	@include gradient(rgba(0,0,0,0), $dark-background-color);
+  }
+
+  #header-content {
+  	position: absolute;
+  	left: 0;
+  	bottom: 10%;
+
+  	padding: 0 6rem;
+  }
+}
+
+
+
+
+/*==============================================*/
+/*================== FEATURED ==================*/
+/*==============================================*/
+#section-featured {
+	// Text colors
+	.highlight { color: $featured-highlight-color; }
+	a { @include anchor-color($featured-highlight-color); }
+
+	margin-top: -6rem;
+	margin-bottom: 12rem;
+
+	div.content {
+		// Padding between title, paragraph, and link
+		h2 { margin-bottom: 2rem; }
+		p  { margin-bottom: 2rem; }
+	}
+}
+
+
+
+
+/*==============================================*/
+/*=================== ABOUT ====================*/
+/*==============================================*/
+#section-about {
+	// Text colors
+	.highlight { color: $about-highlight-color; }
+	a { @include anchor-color($about-highlight-color); }
+
+	#about-tagline {
+		font-size: 3.6rem;
+
+		width: 70%;
+		margin: 0 auto 12rem auto;
+	}
+
+	#about-description {
+		// Padding between title, paragraph, and link
+		h3 { margin-bottom: 2rem; }
+		p  { margin-bottom: 2rem; }
+	}
+
+	#about-photo {
+		img {
+			width: 100%; // resize image to fit in column
+		}
+	}
+}
+
+
+
+
+/*==============================================*/
+/*================== DANCERS ===================*/
+/*==============================================*/
+#section-dancers {
+	div#dancers-title {
+		h3 {	margin-bottom: 1rem;  }
+
+		margin-bottom: 2.5rem;
+	}
+
+	div.dancer {
+		// Add space between rows
+		margin-bottom: 1rem;
+		color: $medium-text-color;
+
+		// Add space between headshot and text
+		img {
+			margin-bottom: 1rem;
+			width: 92%;
+			cursor: pointer;
+		}
+
+		p {
+			margin-bottom: .2rem;
+
+			// Text styling for dancer description
+			&.name {
+				font-size: 1.1rem;
+				font-weight: 500;
+				cursor: pointer;
+			}
+			&.role {
+				text-transform: uppercase;
+				color: $dancers-highlight-color;
+				font-size: .9rem;
+				font-weight: 500;
+			}
+			&.major {
+				font-weight: 300;
+				font-size: .9rem;
+			}
+		}
+	}
+}
+
+
+
+
+
+/*==============================================*/
+/*================= BIO MODAL ==================*/
+/*==============================================*/
+#dancer-modal .modal-body {
+	background-color: $light-background-color;
+
+	div.container {
+		padding-top: 10px;
+	}
+
+	img#bio-photo {
+		width: 95%;
+	}
+
+	h5#bio-name {
+		color: $dancers-highlight-color;
+		font-size: 1.7rem;
+	}
+
+	p#bio-major {
+		font-size: 1.3rem;
+		font-weight: 200;
+	}
+}
+
+
+
+
+
+/*==============================================*/
+/*================== VIDEOS ====================*/
+/*==============================================*/
+#section-videos {
+	margin-top: 10rem;
+
+	// Text colors
+	.highlight { color: $dark-red; }
+	a { @include anchor-color($dark-red); }
+
+	// Add space between videos and paragraph below
+	div.row { margin-bottom: 2rem; }
+
+	// Make video link block (because it has a div inside)
+	a.video { display: block; }
+
+	div.video {
+		background-color: white;
+		color: $dark-text-color;
+		@include box-shadow(0px, 2px, 30px, rgba(217, 217, 217, .7));
+
+		img { width: 100%; }
+		p { padding: 1.2rem 1.5rem; }
+
+		div.thumbnail {
+			position: relative;
+			// Add semi-transparent overlay on thumbnail image
+			&:after {
+				z-index: 900; // Some random value...
+				content: '';
+				position: absolute;
+				top: 0; right: 0; bottom: 0; left: 0;
+				background-color: rgba(0,0,0,.11);
+			}
+      // Brighten image (remove overlay color) on hover
+			&:hover:after {
+				background-color: rgba(0,0,0,0);
+			}
+		}
+
+		// Place play button
+		div.play-button {
+			z-index: 1000; // Another random value greater than .thumbnail:after
+			position: absolute;
+			height: 30px; width: 30px; // hardcoded :(
+			bottom: 1rem; left: 2rem;
+			background: url('../img/videos/play-button.png') no-repeat;
+		}
+	}
+}
+
+
+
+
+
+/*==============================================*/
+/*================== PHOTOS ====================*/
+/*==============================================*/
+#section-photos {
+	// Text colors
+	.highlight { color: $light-red; }
+	a { @include anchor-color($light-red); }
+
+	// Add space above and below filter buttons block
+	#filter {
+		margin: 2rem 0;
+	}
+
+	// Style each button
+	#filter button {
+		margin: .5rem .5rem;
+		padding: .25rem 1rem;
+		color: $light-text-color;
+		background-color: rgba($light-background-color, .15);
+
+		&:hover, &.current {
+			background-color: rgba($light-background-color, .2);
+			color: $light-red;
+			cursor: pointer;
+		}
+	}
+}
+
+
+
+
+
+/*==============================================*/
+/*================== FOOTER ====================*/
+/*==============================================*/
+#footer {
+	// Reduce default section padding
+	padding: 3rem 0;
+
+	// Style social media buttons
+	.social {
+		color: $dark-red;
+		font-size: 1.5rem;
+		margin-bottom: .5rem;
+
+		&:hover { color: darken($dark-red, 10%); }
+	}
+}

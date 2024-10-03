@@ -1,0 +1,139 @@
+/* General */
+html, body {
+  font-family: 'Roboto', sans-serif;
+  width: 100%; height: 100%;
+  font-size: 100%;
+
+  color: #5E5E5E;
+  background-color: #F4F1F1;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 9rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+div#content {
+  /* Let the featured section overlap with the header */
+  margin-top: -7rem;
+}
+
+/* Tablets */
+@media (max-width: 768px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+/* Phones */
+@media (max-width: 576px) {
+  html {
+    font-size: 60%;
+  }
+}
+
+
+
+
+/* Navbar */
+nav {
+  /* Transparent navbar background */
+  background-color: rgba(0,0,0,0);
+
+  /* Increase padding for nav content */
+  padding: .6rem 5rem !important;
+}
+
+div#main-nav a {
+  /* Text styling */
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: .85rem;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.7);
+  letter-spacing: .75px;
+
+  /* More spacing beteween the links */
+  padding: .5rem 2.5rem;
+}
+
+div#main-nav a:hover {
+  color: rgba(255,255,255,.5);
+}
+
+
+
+
+/* Hero */
+header {
+  text-align: center;
+  color: rgba(195, 154, 205, .4);
+
+  /* Darken the background image a bit */
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/cdf-allnight1.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+
+  width: 100%;
+  min-height: 120%;
+}
+
+header div.header-content {
+  /* Offset from top */
+  position: absolute;
+  top: 10%;
+}
+
+header div.header-content h1 {
+  /* Pull "@ Stanford" h3 closer */
+  margin-bottom: -5px;
+}
+
+
+
+
+/* Featured */
+.featured-color {
+  color: #895A94;
+}
+
+div#section-featured {
+  position: relative;
+
+  background-color: white;
+  box-shadow: 0 2px 30px rgba(74, 74, 74, .13);
+  outline: 4px solid #DFC7E4;
+  outline-offset: -2rem;
+
+  padding: 4rem;
+}
+
+/* Create the top and bottom triangles of the featured hexagon using borders trick
+https://jtauber.github.io/articles/css-hexagon.html
+*/
+div#section-featured:before, div#section-featured:after {
+  position: absolute;
+  content: "";
+  width: 0;
+}
+
+div#section-featured h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}

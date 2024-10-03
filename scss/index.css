@@ -1,0 +1,304 @@
+/*==============================================*/
+/*=============== SASS VARIABLES ===============*/
+/*==============================================*/
+/*==============================================*/
+/*=================== MIXINS ===================*/
+/*==============================================*/
+/*==============================================*/
+/*=============== GENERAL STYLES ===============*/
+/*==============================================*/
+html, body {
+  font: 100% Rubik, sans-serif;
+  color: #2A2A2A;
+  font-weight: 400;
+  width: 100%;
+  height: 100%;
+  background-color: #010103; }
+
+/*======= Colors =======*/
+.dark {
+  color: white;
+  background-color: #010103;
+  font-weight: 300;
+  padding: 8rem 0; }
+  .dark a {
+    font-weight: 400; }
+
+.light {
+  color: #2A2A2A;
+  background-color: #F9F9F9;
+  padding: 8rem 0; }
+
+/*======= Header text styles =======*/
+h1, h2, h3 {
+  font-weight: 500; }
+
+h3, h4 {
+  text-transform: uppercase; }
+
+h1 {
+  font-size: 3.6rem; }
+
+h2 {
+  font-size: 2.5rem; }
+
+h3 {
+  font-size: 1.7rem;
+  margin-bottom: 2.5rem; }
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: 400; }
+
+/*======= Paragraph text styles =======*/
+p {
+  font-size: 1rem;
+  line-height: 1.5rem; }
+
+b {
+  font-weight: 500; }
+
+/*======= Link text styles =======*/
+a:hover {
+  text-decoration: none; }
+
+.fa-arrow-right {
+  margin-left: 5px; }
+
+.container-fluid {
+  padding: 0 5rem; }
+
+/*==============================================*/
+/*=============== ANIMATED INTRO ===============*/
+/*==============================================*/
+@keyframes intro {
+  0% {
+    opacity: 1;
+    z-index: 2000; }
+  50% {
+    opacity: 1;
+    z-index: 2000; }
+  100% {
+    opacity: 0;
+    z-index: -1; } }
+.animated-intro {
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  background-color: #010103;
+  opacity: 0;
+  text-align: center;
+  animation-name: intro;
+  animation-duration: 5s; }
+  .animated-intro img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+
+/*==============================================*/
+/*=================== NAVBAR ===================*/
+/*==============================================*/
+.navbar {
+  padding: .9rem 2rem;
+  background-color: rgba(1, 1, 3, 0); }
+  .navbar #main-nav a {
+    color: white; }
+    .navbar #main-nav a:hover {
+      color: #ED9CA2; }
+
+/*==============================================*/
+/*=================== HEADER ===================*/
+/*==============================================*/
+#header {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  min-height: 100%;
+  position: relative; }
+  #header #header-gradient {
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    background: rgba(0, 0, 0, 0);
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0), #010103);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(0, 0, 0, 0), #010103);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(0, 0, 0, 0), #010103);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(0, 0, 0, 0), #010103);
+    /* Standard syntax */ }
+  #header #header-content {
+    position: absolute;
+    left: 0;
+    bottom: 10%;
+    padding: 0 6rem; }
+
+/*==============================================*/
+/*================== FEATURED ==================*/
+/*==============================================*/
+#section-featured {
+  margin-top: -6rem;
+  margin-bottom: 12rem; }
+  #section-featured .highlight {
+    color: #89ACF7; }
+  #section-featured a {
+    color: #89ACF7; }
+    #section-featured a:hover {
+      color: #598af4; }
+  #section-featured div.content h2 {
+    margin-bottom: 2rem; }
+  #section-featured div.content p {
+    margin-bottom: 2rem; }
+
+/*==============================================*/
+/*=================== ABOUT ====================*/
+/*==============================================*/
+#section-about .highlight {
+  color: #FD92BD; }
+#section-about a {
+  color: #FD92BD; }
+  #section-about a:hover {
+    color: #fc609f; }
+#section-about #about-tagline {
+  font-size: 3.6rem;
+  width: 70%;
+  margin: 0 auto 12rem auto; }
+#section-about #about-description h3 {
+  margin-bottom: 2rem; }
+#section-about #about-description p {
+  margin-bottom: 2rem; }
+#section-about #about-photo img {
+  width: 100%; }
+
+/*==============================================*/
+/*================== DANCERS ===================*/
+/*==============================================*/
+#section-dancers div#dancers-title {
+  margin-bottom: 2.5rem; }
+  #section-dancers div#dancers-title h3 {
+    margin-bottom: 1rem; }
+#section-dancers div.dancer {
+  margin-bottom: 1rem;
+  color: #5E5E5E; }
+  #section-dancers div.dancer img {
+    margin-bottom: 1rem;
+    width: 92%;
+    cursor: pointer; }
+  #section-dancers div.dancer p {
+    margin-bottom: .2rem; }
+    #section-dancers div.dancer p.name {
+      font-size: 1.1rem;
+      font-weight: 500;
+      cursor: pointer; }
+    #section-dancers div.dancer p.role {
+      text-transform: uppercase;
+      color: #9B0909;
+      font-size: .9rem;
+      font-weight: 500; }
+    #section-dancers div.dancer p.major {
+      font-weight: 300;
+      font-size: .9rem; }
+
+/*==============================================*/
+/*================= BIO MODAL ==================*/
+/*==============================================*/
+#dancer-modal .modal-body {
+  background-color: #F9F9F9; }
+  #dancer-modal .modal-body div.container {
+    padding-top: 10px; }
+  #dancer-modal .modal-body img#bio-photo {
+    width: 95%; }
+  #dancer-modal .modal-body h5#bio-name {
+    color: #9B0909;
+    font-size: 1.7rem; }
+  #dancer-modal .modal-body p#bio-major {
+    font-size: 1.3rem;
+    font-weight: 200; }
+
+/*==============================================*/
+/*================== VIDEOS ====================*/
+/*==============================================*/
+#section-videos {
+  margin-top: 0rem; }
+  #section-videos .highlight {
+    color: #9B0909; }
+  #section-videos a {
+    color: #9B0909; }
+    #section-videos a:hover {
+      color: #6b0606; }
+  #section-videos div.row {
+    margin-bottom: 2rem; }
+  #section-videos a.video {
+    display: block; }
+  #section-videos div.video {
+    background-color: white;
+    color: #2A2A2A;
+    -webkit-box-shadow: 0px 2px 30px rgba(217, 217, 217, 0.7);
+    -moz-box-shadow: 0px 2px 30px rgba(217, 217, 217, 0.7);
+    box-shadow: 0px 2px 30px rgba(217, 217, 217, 0.7); }
+    #section-videos div.video img {
+      width: 100%; }
+    #section-videos div.video p {
+      padding: 1.2rem 1.5rem; }
+    #section-videos div.video div.thumbnail {
+      position: relative; }
+      #section-videos div.video div.thumbnail:after {
+        z-index: 900;
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.11); }
+      #section-videos div.video div.thumbnail:hover:after {
+        background-color: rgba(0, 0, 0, 0); }
+    #section-videos div.video div.play-button {
+      z-index: 1000;
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      bottom: 1rem;
+      left: 2rem;
+      background: url("../img/videos/play-button.png") no-repeat; }
+
+/*==============================================*/
+/*================== PHOTOS ====================*/
+/*==============================================*/
+#section-photos .highlight {
+  color: #ED9CA2; }
+#section-photos a {
+  color: #ED9CA2; }
+  #section-photos a:hover {
+    color: #e57179; }
+#section-photos #filter {
+  margin: 2rem 0; }
+#section-photos #filter button {
+  margin: .5rem .5rem;
+  padding: .25rem 1rem;
+  color: white;
+  background-color: rgba(249, 249, 249, 0.15); }
+  #section-photos #filter button:hover, #section-photos #filter button.current {
+    background-color: rgba(249, 249, 249, 0.2);
+    color: #ED9CA2;
+    cursor: pointer; }
+
+/*==============================================*/
+/*================== FOOTER ====================*/
+/*==============================================*/
+#footer {
+  padding: 3rem 0; }
+  #footer .social {
+    color: #9B0909;
+    font-size: 1.5rem;
+    margin-bottom: .5rem; }
+    #footer .social:hover {
+      color: #6b0606; }
+
+/*# sourceMappingURL=staging.css.map */
