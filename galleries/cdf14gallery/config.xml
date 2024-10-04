@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Cardinal Dance Fusion 2014"
+	indexPageName="index2.html"
+
+>
+  <image imageURL="images/bayadere1.jpg"
+	thumbURL="thumbs/bayadere1.jpg"
+	linkURL="images/bayadere1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/bayadere1.jpg">
+    <title><![CDATA[La Bayadere]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bayadere2.jpg"
+	thumbURL="thumbs/bayadere2.jpg"
+	linkURL="images/bayadere2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/bayadere2.jpg">
+    <title><![CDATA[Jackson in La Bayadere]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/diamonds1.jpg"
+	thumbURL="thumbs/diamonds1.jpg"
+	linkURL="images/diamonds1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/diamonds1.jpg">
+    <title><![CDATA[Diamonds]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/diamonds2.jpg"
+	thumbURL="thumbs/diamonds2.jpg"
+	linkURL="images/diamonds2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/diamonds2.jpg">
+    <title><![CDATA[Makiko and Andrew in Diamonds]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/diamonds3.jpg"
+	thumbURL="thumbs/diamonds3.jpg"
+	linkURL="images/diamonds3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/diamonds3.jpg">
+    <title><![CDATA[Martha in Diamonds]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ensemble.jpg"
+	thumbURL="thumbs/ensemble.jpg"
+	linkURL="images/ensemble.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/ensemble.jpg">
+    <title><![CDATA[Group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group1.jpg"
+	thumbURL="thumbs/group1.jpg"
+	linkURL="images/group1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/group1.jpg">
+    <title><![CDATA[Stephanie in "Dirty Dancing"]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group2.jpg"
+	thumbURL="thumbs/group2.jpg"
+	linkURL="images/group2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/group2.jpg">
+    <title><![CDATA[Julia in "Dirty Dancing"]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group3.jpg"
+	thumbURL="thumbs/group3.jpg"
+	linkURL="images/group3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/group3.jpg">
+    <title><![CDATA["Dirty Dancing"
+	]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group4.jpg"
+	thumbURL="thumbs/group4.jpg"
+	linkURL="images/group4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/group4.jpg">
+    <title><![CDATA[Dru in "Dirty Dancing"]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group5.jpg"
+	thumbURL="thumbs/group5.jpg"
+	linkURL="images/group5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/group5.jpg">
+    <title><![CDATA["Dirty Dancing" group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/guest1.jpg"
+	thumbURL="thumbs/guest1.jpg"
+	linkURL="images/guest1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/guest1.jpg">
+    <title><![CDATA["Seed" group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/guest2.jpg"
+	thumbURL="thumbs/guest2.jpg"
+	linkURL="images/guest2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/guest2.jpg">
+    <title><![CDATA[Caroline in "Seed"]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/julia1.jpg"
+	thumbURL="thumbs/julia1.jpg"
+	linkURL="images/julia1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/julia1.jpg">
+    <title><![CDATA[Liana in "After After" choreographed by Julia Neidert]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/princesses1.jpg"
+	thumbURL="thumbs/princesses1.jpg"
+	linkURL="images/princesses1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/cdf14/princesses1.jpg">
+    <title><![CDATA[Swan Lake Princesses group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
