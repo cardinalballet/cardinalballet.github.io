@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Nutcracker 2014"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	showThumbsButton="true"
+
+>
+  <image imageURL="images/arabian1.jpg"
+	thumbURL="thumbs/arabian1.jpg"
+	linkURL="images/arabian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/arabian1.jpg">
+    <title><![CDATA[Michelle Lam in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/arabian2.jpg"
+	thumbURL="thumbs/arabian2.jpg"
+	linkURL="images/arabian2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/arabian2.jpg">
+    <title><![CDATA[Jackson in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/arabian3.jpg"
+	thumbURL="thumbs/arabian3.jpg"
+	linkURL="images/arabian3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/arabian3.jpg">
+    <title><![CDATA[Michelle Lam and Jackson in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/arabian4.jpg"
+	thumbURL="thumbs/arabian4.jpg"
+	linkURL="images/arabian4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/arabian4.jpg">
+    <title><![CDATA[Stephanie and Jackson in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/arabian5.jpg"
+	thumbURL="thumbs/arabian5.jpg"
+	linkURL="images/arabian5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/arabian5.jpg">
+    <title><![CDATA[Tessa and Jackson in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group.jpg"
+	thumbURL="thumbs/group.jpg"
+	linkURL="images/group.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/group.jpg">
+    <title><![CDATA[Group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/group2.jpg"
+	thumbURL="thumbs/group2.jpg"
+	linkURL="images/group2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/group2.jpg">
+    <title><![CDATA[Group shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mir1.jpg"
+	thumbURL="thumbs/mir1.jpg"
+	linkURL="images/mir1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/mir1.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mir2.jpg"
+	thumbURL="thumbs/mir2.jpg"
+	linkURL="images/mir2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/mir2.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mir3.jpg"
+	thumbURL="thumbs/mir3.jpg"
+	linkURL="images/mir3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/mir3.jpg">
+    <title><![CDATA[Madelaine in Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas1.jpg"
+	thumbURL="thumbs/pas1.jpg"
+	linkURL="images/pas1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas1.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas2.jpg"
+	thumbURL="thumbs/pas2.jpg"
+	linkURL="images/pas2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas2.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas3.jpg"
+	thumbURL="thumbs/pas3.jpg"
+	linkURL="images/pas3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas3.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas4.jpg"
+	thumbURL="thumbs/pas4.jpg"
+	linkURL="images/pas4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas4.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas5.jpg"
+	thumbURL="thumbs/pas5.jpg"
+	linkURL="images/pas5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas5.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas6.jpg"
+	thumbURL="thumbs/pas6.jpg"
+	linkURL="images/pas6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas6.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pas7.jpg"
+	thumbURL="thumbs/pas7.jpg"
+	linkURL="images/pas7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/pas7.jpg">
+    <title><![CDATA[Grand pas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian1.jpg"
+	thumbURL="thumbs/russian1.jpg"
+	linkURL="images/russian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian1.jpg">
+    <title><![CDATA[Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian2.jpg"
+	thumbURL="thumbs/russian2.jpg"
+	linkURL="images/russian2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian2.jpg">
+    <title><![CDATA[Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian3.jpg"
+	thumbURL="thumbs/russian3.jpg"
+	linkURL="images/russian3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian3.jpg">
+    <title><![CDATA[Jackson in Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian4.jpg"
+	thumbURL="thumbs/russian4.jpg"
+	linkURL="images/russian4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian4.jpg">
+    <title><![CDATA[Jackson doing his thing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian5.jpg"
+	thumbURL="thumbs/russian5.jpg"
+	linkURL="images/russian5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian5.jpg">
+    <title><![CDATA[Jackson in Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/russian6.jpg"
+	thumbURL="thumbs/russian6.jpg"
+	linkURL="images/russian6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/russian6.jpg">
+    <title><![CDATA[Mark in Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow1.jpg"
+	thumbURL="thumbs/snow1.jpg"
+	linkURL="images/snow1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow1.jpg">
+    <title><![CDATA[Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow2.jpg"
+	thumbURL="thumbs/snow2.jpg"
+	linkURL="images/snow2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow2.jpg">
+    <title><![CDATA[Jessica in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow3.jpg"
+	thumbURL="thumbs/snow3.jpg"
+	linkURL="images/snow3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow3.jpg">
+    <title><![CDATA[Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow4.jpg"
+	thumbURL="thumbs/snow4.jpg"
+	linkURL="images/snow4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow4.jpg">
+    <title><![CDATA[Tyler in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow5.jpg"
+	thumbURL="thumbs/snow5.jpg"
+	linkURL="images/snow5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow5.jpg">
+    <title><![CDATA[Madelaine in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow6.jpg"
+	thumbURL="thumbs/snow6.jpg"
+	linkURL="images/snow6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow6.jpg">
+    <title><![CDATA[Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow7.jpg"
+	thumbURL="thumbs/snow7.jpg"
+	linkURL="images/snow7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow7.jpg">
+    <title><![CDATA[Madelaine in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snow8.jpg"
+	thumbURL="thumbs/snow8.jpg"
+	linkURL="images/snow8.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/snow8.jpg">
+    <title><![CDATA[Emma in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/spanish1.jpg"
+	thumbURL="thumbs/spanish1.jpg"
+	linkURL="images/spanish1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/janetan/Desktop/Amoeba/new/img/performances/nut14/spanish1.jpg">
+    <title><![CDATA[Makiko in Spanish]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
