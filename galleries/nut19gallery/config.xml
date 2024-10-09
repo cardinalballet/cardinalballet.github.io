@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Nutcracker 2019"
+	showOpenButton="true"
+
+>
+  <image imageURL="images/1_party1.jpg"
+	thumbURL="thumbs/1_party1.jpg"
+	linkURL="images/1_party1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara]]></caption>
+  </image>
+  <image imageURL="images/1_party2.jpg"
+	thumbURL="thumbs/1_party2.jpg"
+	linkURL="images/1_party2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Drosselmeyer and party guests]]></caption>
+  </image>
+  <image imageURL="images/1_party3.jpg"
+	thumbURL="thumbs/1_party3.jpg"
+	linkURL="images/1_party3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Harlequin doll]]></caption>
+  </image>
+  <image imageURL="images/1_party4.jpg"
+	thumbURL="thumbs/1_party4.jpg"
+	linkURL="images/1_party4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Ballerina doll]]></caption>
+  </image>
+  <image imageURL="images/1_party5.jpg"
+	thumbURL="thumbs/1_party5.jpg"
+	linkURL="images/1_party5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Soldier doll]]></caption>
+  </image>
+  <image imageURL="images/1_party6.jpg"
+	thumbURL="thumbs/1_party6.jpg"
+	linkURL="images/1_party6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara and Drosselmeyer]]></caption>
+  </image>
+  <image imageURL="images/1_party7.jpg"
+	thumbURL="thumbs/1_party7.jpg"
+	linkURL="images/1_party7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara and her firends]]></caption>
+  </image>
+  <image imageURL="images/1_party8.jpg"
+	thumbURL="thumbs/1_party8.jpg"
+	linkURL="images/1_party8.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara and Fritza]]></caption>
+  </image>
+  <image imageURL="images/1_party9.jpg"
+	thumbURL="thumbs/1_party9.jpg"
+	linkURL="images/1_party9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/1_party9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Party parents]]></caption>
+  </image>
+  <image imageURL="images/2_battle1.jpg"
+	thumbURL="thumbs/2_battle1.jpg"
+	linkURL="images/2_battle1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara and rats]]></caption>
+  </image>
+  <image imageURL="images/2_battle2.jpg"
+	thumbURL="thumbs/2_battle2.jpg"
+	linkURL="images/2_battle2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Soldiers in battle]]></caption>
+  </image>
+  <image imageURL="images/2_battle3.jpg"
+	thumbURL="thumbs/2_battle3.jpg"
+	linkURL="images/2_battle3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Nutcracker Prince]]></caption>
+  </image>
+  <image imageURL="images/2_battle4.jpg"
+	thumbURL="thumbs/2_battle4.jpg"
+	linkURL="images/2_battle4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Rat Queen]]></caption>
+  </image>
+  <image imageURL="images/2_battle5.jpg"
+	thumbURL="thumbs/2_battle5.jpg"
+	linkURL="images/2_battle5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Rat Queen is slain]]></caption>
+  </image>
+  <image imageURL="images/2_battle6.jpg"
+	thumbURL="thumbs/2_battle6.jpg"
+	linkURL="images/2_battle6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/2_battle6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Rats mourning]]></caption>
+  </image>
+  <image imageURL="images/3_snow1.jpg"
+	thumbURL="thumbs/3_snow1.jpg"
+	linkURL="images/3_snow1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/3_snow1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Clara and Nutcracker Prince]]></caption>
+  </image>
+  <image imageURL="images/3_snow2.jpg"
+	thumbURL="thumbs/3_snow2.jpg"
+	linkURL="images/3_snow2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/3_snow2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Snow Queen]]></caption>
+  </image>
+  <image imageURL="images/3_snow3.jpg"
+	thumbURL="thumbs/3_snow3.jpg"
+	linkURL="images/3_snow3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/3_snow3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Snowflake]]></caption>
+  </image>
+  <image imageURL="images/3_snow4.jpg"
+	thumbURL="thumbs/3_snow4.jpg"
+	linkURL="images/3_snow4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/3_snow4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Snowflakes and Snow Queen]]></caption>
+  </image>
+  <image imageURL="images/4_spanish.jpg"
+	thumbURL="thumbs/4_spanish.jpg"
+	linkURL="images/4_spanish.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/4_spanish.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Chocolate]]></caption>
+  </image>
+  <image imageURL="images/4_spanish2.jpg"
+	thumbURL="thumbs/4_spanish2.jpg"
+	linkURL="images/4_spanish2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/4_spanish2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Chocolate]]></caption>
+  </image>
+  <image imageURL="images/6_chinese.jpg"
+	thumbURL="thumbs/6_chinese.jpg"
+	linkURL="images/6_chinese.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/6_chinese.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea]]></caption>
+  </image>
+  <image imageURL="images/5_mirl.jpg"
+	thumbURL="thumbs/5_mirl.jpg"
+	linkURL="images/5_mirl.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/5_mirl.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Marzipan]]></caption>
+  </image>
+  <image imageURL="images/5_mirl2.jpg"
+	thumbURL="thumbs/5_mirl2.jpg"
+	linkURL="images/5_mirl2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/5_mirl2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Marzipan]]></caption>
+  </image>
+  <image imageURL="images/7_russian.jpg"
+	thumbURL="thumbs/7_russian.jpg"
+	linkURL="images/7_russian.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/7_russian.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Trepak]]></caption>
+  </image>
+  <image imageURL="images/8_arabian.jpg"
+	thumbURL="thumbs/8_arabian.jpg"
+	linkURL="images/8_arabian.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/8_arabian.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Coffee]]></caption>
+  </image>
+  <image imageURL="images/8_arabian1.jpg"
+	thumbURL="thumbs/8_arabian1.jpg"
+	linkURL="images/8_arabian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/8_arabian1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Coffee]]></caption>
+  </image>
+  <image imageURL="images/9_pdd.jpg"
+	thumbURL="thumbs/9_pdd.jpg"
+	linkURL="images/9_pdd.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/9_pdd.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Grand Pas de Deux]]></caption>
+  </image>
+  <image imageURL="images/9_pdd2.jpg"
+	thumbURL="thumbs/9_pdd2.jpg"
+	linkURL="images/9_pdd2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/9_pdd2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Grand Pas de Deux]]></caption>
+  </image>
+  <image imageURL="images/9_pdd3.jpg"
+	thumbURL="thumbs/9_pdd3.jpg"
+	linkURL="images/9_pdd3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/9_pdd3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Grand Pas de Deux]]></caption>
+  </image>
+  <image imageURL="images/flowers3.jpg"
+	thumbURL="thumbs/flowers3.jpg"
+	linkURL="images/flowers3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/flowers3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Waltz of the Flowers]]></caption>
+  </image>
+  <image imageURL="images/flowers2.jpg"
+	thumbURL="thumbs/flowers2.jpg"
+	linkURL="images/flowers2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/flowers2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Waltz of the Flowers]]></caption>
+  </image>
+  <image imageURL="images/sugar.jpg"
+	thumbURL="thumbs/sugar.jpg"
+	linkURL="images/sugar.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/sugar.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Sugar Plum Fairy]]></caption>
+  </image>
+  <image imageURL="images/tai.jpg"
+	thumbURL="thumbs/tai.jpg"
+	linkURL="images/tai.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/tai.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Nutcracker Prince]]></caption>
+  </image>
+  <image imageURL="images/AVP_4943.jpg"
+	thumbURL="thumbs/AVP_4943.jpg"
+	linkURL="images/AVP_4943.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/AVP_4943.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Finale]]></caption>
+  </image>
+  <image imageURL="images/AVP_8413.jpg"
+	thumbURL="thumbs/AVP_8413.jpg"
+	linkURL="images/AVP_8413.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/AVP_8413.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Finale]]></caption>
+  </image>
+  <image imageURL="images/AVP_8510.jpg"
+	thumbURL="thumbs/AVP_8510.jpg"
+	linkURL="images/AVP_8510.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/AVP_8510.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Finale]]></caption>
+  </image>
+  <image imageURL="images/AVP_5212.jpg"
+	thumbURL="thumbs/AVP_5212.jpg"
+	linkURL="images/AVP_5212.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/nut19/AVP_5212.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Full cast]]></caption>
+  </image>
+</juiceboxgallery>
