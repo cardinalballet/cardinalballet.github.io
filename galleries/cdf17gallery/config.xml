@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery>
+  <image imageURL="images/cdf-bluebird.jpg"
+	thumbURL="thumbs/cdf-bluebird.jpg"
+	linkURL="images/cdf-bluebird.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-bluebird.jpg"
+
+>
+    <title><![CDATA[Bluebird]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-redridinghood.jpg"
+	thumbURL="thumbs/cdf-redridinghood.jpg"
+	linkURL="images/cdf-redridinghood.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-redridinghood.jpg">
+    <title><![CDATA[Little Red Riding Hood and the Wolf]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-cat2.jpg"
+	thumbURL="thumbs/cdf-cat2.jpg"
+	linkURL="images/cdf-cat2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-cat2.jpg">
+    <title><![CDATA[Puss in Boots]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-cat.jpg"
+	thumbURL="thumbs/cdf-cat.jpg"
+	linkURL="images/cdf-cat.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-cat.jpg">
+    <title><![CDATA[Puss in Boots]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-worry1.jpg"
+	thumbURL="thumbs/cdf-worry1.jpg"
+	linkURL="images/cdf-worry1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-worry1.jpg">
+    <title><![CDATA[There are Actually So Many Reasons to Worry, But We Can Ignore Them for a Bit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-worry2.jpg"
+	thumbURL="thumbs/cdf-worry2.jpg"
+	linkURL="images/cdf-worry2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-worry2.jpg">
+    <title><![CDATA[There are Actually So Many Reasons to Worry, But We Can Ignore Them for a Bit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-paris2.jpg"
+	thumbURL="thumbs/cdf-paris2.jpg"
+	linkURL="images/cdf-paris2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-paris2.jpg">
+    <title><![CDATA[An American in Paris]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-paris.jpg"
+	thumbURL="thumbs/cdf-paris.jpg"
+	linkURL="images/cdf-paris.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-paris.jpg">
+    <title><![CDATA[An American in Paris]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-paris3.jpg"
+	thumbURL="thumbs/cdf-paris3.jpg"
+	linkURL="images/cdf-paris3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-paris3.jpg">
+    <title><![CDATA[An American in Paris]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-paris4.jpg"
+	thumbURL="thumbs/cdf-paris4.jpg"
+	linkURL="images/cdf-paris4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-paris4.jpg">
+    <title><![CDATA[An American in Paris]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-momentum.jpg"
+	thumbURL="thumbs/cdf-momentum.jpg"
+	linkURL="images/cdf-momentum.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-momentum.jpg">
+    <title><![CDATA[Collective Momentum]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-burn2.jpg"
+	thumbURL="thumbs/cdf-burn2.jpg"
+	linkURL="images/cdf-burn2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-burn2.jpg">
+    <title><![CDATA[Burn the Witch]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-burn1.jpg"
+	thumbURL="thumbs/cdf-burn1.jpg"
+	linkURL="images/cdf-burn1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-burn1.jpg">
+    <title><![CDATA[Burn the Witch]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-burn3.jpg"
+	thumbURL="thumbs/cdf-burn3.jpg"
+	linkURL="images/cdf-burn3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-burn3.jpg">
+    <title><![CDATA[Burn the Witch]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-allnight1.jpg"
+	thumbURL="thumbs/cdf-allnight1.jpg"
+	linkURL="images/cdf-allnight1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-allnight1.jpg">
+    <title><![CDATA[All Night]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-allnight2.jpg"
+	thumbURL="thumbs/cdf-allnight2.jpg"
+	linkURL="images/cdf-allnight2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-allnight2.jpg">
+    <title><![CDATA[All Night]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-bug1.jpg"
+	thumbURL="thumbs/cdf-bug1.jpg"
+	linkURL="images/cdf-bug1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-bug1.jpg">
+    <title><![CDATA[Bug Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-bug2.jpg"
+	thumbURL="thumbs/cdf-bug2.jpg"
+	linkURL="images/cdf-bug2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-bug2.jpg">
+    <title><![CDATA[Bug Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-bug3.jpg"
+	thumbURL="thumbs/cdf-bug3.jpg"
+	linkURL="images/cdf-bug3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-bug3.jpg">
+    <title><![CDATA[Bug Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-bug4.jpg"
+	thumbURL="thumbs/cdf-bug4.jpg"
+	linkURL="images/cdf-bug4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-bug4.jpg">
+    <title><![CDATA[Bug Out]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-seniors.jpg"
+	thumbURL="thumbs/cdf-seniors.jpg"
+	linkURL="images/cdf-seniors.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-seniors.jpg">
+    <title><![CDATA[Seniors]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cdf-group.jpg"
+	thumbURL="thumbs/cdf-group.jpg"
+	linkURL="images/cdf-group.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/cbc photos 2016-17/cdf-group.jpg">
+    <title><![CDATA[Group photo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
