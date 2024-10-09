@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Don Quixote and Student Choreography 2019"
+
+>
+  <image imageURL="images/evelyn1.jpg"
+	thumbURL="thumbs/evelyn1.jpg"
+	linkURL="images/evelyn1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/evelyn1.jpg">
+    <title><![CDATA[Gravity]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/evelyn2.jpg"
+	thumbURL="thumbs/evelyn2.jpg"
+	linkURL="images/evelyn2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/evelyn2.jpg">
+    <title><![CDATA[Gravity]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maithreyi1.jpg"
+	thumbURL="thumbs/maithreyi1.jpg"
+	linkURL="images/maithreyi1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/maithreyi1.jpg">
+    <title><![CDATA[Disintegration Anxiety]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maithreyi2.jpg"
+	thumbURL="thumbs/maithreyi2.jpg"
+	linkURL="images/maithreyi2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/maithreyi2.jpg">
+    <title><![CDATA[Disintegration Anxiety]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/rebecca1.jpg"
+	thumbURL="thumbs/rebecca1.jpg"
+	linkURL="images/rebecca1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/rebecca1.jpg">
+    <title><![CDATA[Heart Cry]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/rebecca2.jpg"
+	thumbURL="thumbs/rebecca2.jpg"
+	linkURL="images/rebecca2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/rebecca2.jpg">
+    <title><![CDATA[Heart Cry]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/steph1.jpg"
+	thumbURL="thumbs/steph1.jpg"
+	linkURL="images/steph1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/steph1.jpg">
+    <title><![CDATA[Brand New]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/steph2.jpg"
+	thumbURL="thumbs/steph2.jpg"
+	linkURL="images/steph2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/steph2.jpg">
+    <title><![CDATA[Brand New]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lian1.jpg"
+	thumbURL="thumbs/lian1.jpg"
+	linkURL="images/lian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/lian1.jpg">
+    <title><![CDATA[Woman]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lian2.jpg"
+	thumbURL="thumbs/lian2.jpg"
+	linkURL="images/lian2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/lian2.jpg">
+    <title><![CDATA[Woman]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_8451.jpg"
+	thumbURL="thumbs/act1DSC_8451.jpg"
+	linkURL="images/act1DSC_8451.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_8451.jpg">
+    <title><![CDATA[Don Quixote and Sancho Panza]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_8617.jpg"
+	thumbURL="thumbs/act1DSC_8617.jpg"
+	linkURL="images/act1DSC_8617.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_8617.jpg">
+    <title><![CDATA[Kitri's bridesmaid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_8945.jpg"
+	thumbURL="thumbs/act1DSC_8945.jpg"
+	linkURL="images/act1DSC_8945.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_8945.jpg">
+    <title><![CDATA[Gamasch's flirtations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_0287.jpg"
+	thumbURL="thumbs/act1DSC_0287.jpg"
+	linkURL="images/act1DSC_0287.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_0287.jpg">
+    <title><![CDATA[Gamasch's flirtations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_9866.jpg"
+	thumbURL="thumbs/act1DSC_9866.jpg"
+	linkURL="images/act1DSC_9866.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_9866.jpg">
+    <title><![CDATA[Seguidilla]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_9417.jpg"
+	thumbURL="thumbs/act1DSC_9417.jpg"
+	linkURL="images/act1DSC_9417.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_9417.jpg">
+    <title><![CDATA[Kitri's friends]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_9973.jpg"
+	thumbURL="thumbs/act1DSC_9973.jpg"
+	linkURL="images/act1DSC_9973.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_9973.jpg">
+    <title><![CDATA[Kitri's friends]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_0070.jpg"
+	thumbURL="thumbs/act1DSC_0070.jpg"
+	linkURL="images/act1DSC_0070.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_0070.jpg">
+    <title><![CDATA[Kitri's friends]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_0330.jpg"
+	thumbURL="thumbs/act1DSC_0330.jpg"
+	linkURL="images/act1DSC_0330.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_0330.jpg">
+    <title><![CDATA[Mercedes]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_0432.jpg"
+	thumbURL="thumbs/act1DSC_0432.jpg"
+	linkURL="images/act1DSC_0432.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_0432.jpg">
+    <title><![CDATA[Mercedes]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act1DSC_0643.jpg"
+	thumbURL="thumbs/act1DSC_0643.jpg"
+	linkURL="images/act1DSC_0643.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act1DSC_0643.jpg">
+    <title><![CDATA[Kitri's bridesmaid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act2DSC_0829.jpg"
+	thumbURL="thumbs/act2DSC_0829.jpg"
+	linkURL="images/act2DSC_0829.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act2DSC_0829.jpg">
+    <title><![CDATA[Act 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act2DSC_0988.jpg"
+	thumbURL="thumbs/act2DSC_0988.jpg"
+	linkURL="images/act2DSC_0988.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act2DSC_0988.jpg">
+    <title><![CDATA[Dryad Queen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act2DSC_1340.jpg"
+	thumbURL="thumbs/act2DSC_1340.jpg"
+	linkURL="images/act2DSC_1340.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act2DSC_1340.jpg">
+    <title><![CDATA[Cupid]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act2DSC_1454.jpg"
+	thumbURL="thumbs/act2DSC_1454.jpg"
+	linkURL="images/act2DSC_1454.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act2DSC_1454.jpg">
+    <title><![CDATA[Dulcinea]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act2DSC_1834.jpg"
+	thumbURL="thumbs/act2DSC_1834.jpg"
+	linkURL="images/act2DSC_1834.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act2DSC_1834.jpg">
+    <title><![CDATA[Act 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_2082.jpg"
+	thumbURL="thumbs/act3DSC_2082.jpg"
+	linkURL="images/act3DSC_2082.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_2082.jpg">
+    <title><![CDATA[The wedding]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_2478.jpg"
+	thumbURL="thumbs/act3DSC_2478.jpg"
+	linkURL="images/act3DSC_2478.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_2478.jpg">
+    <title><![CDATA[Wedding pas de deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_2933.jpg"
+	thumbURL="thumbs/act3DSC_2933.jpg"
+	linkURL="images/act3DSC_2933.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_2933.jpg">
+    <title><![CDATA[Wedding pas de deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1566.jpg"
+	thumbURL="thumbs/act3DSC_1566.jpg"
+	linkURL="images/act3DSC_1566.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1566.jpg">
+    <title><![CDATA[Wedding pas de deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3239.jpg"
+	thumbURL="thumbs/act3DSC_3239.jpg"
+	linkURL="images/act3DSC_3239.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3239.jpg">
+    <title><![CDATA[Abigail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3319.jpg"
+	thumbURL="thumbs/act3DSC_3319.jpg"
+	linkURL="images/act3DSC_3319.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3319.jpg">
+    <title><![CDATA[Dylan]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3495.jpg"
+	thumbURL="thumbs/act3DSC_3495.jpg"
+	linkURL="images/act3DSC_3495.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3495.jpg">
+    <title><![CDATA[Alli Emma, and Amelia]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3524.jpg"
+	thumbURL="thumbs/act3DSC_3524.jpg"
+	linkURL="images/act3DSC_3524.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3524.jpg">
+    <title><![CDATA[Rebecca]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3627.jpg"
+	thumbURL="thumbs/act3DSC_3627.jpg"
+	linkURL="images/act3DSC_3627.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3627.jpg">
+    <title><![CDATA[Evelyn]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_3639.jpg"
+	thumbURL="thumbs/act3DSC_3639.jpg"
+	linkURL="images/act3DSC_3639.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_3639.jpg">
+    <title><![CDATA[Jeff]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1088.jpg"
+	thumbURL="thumbs/act3DSC_1088.jpg"
+	linkURL="images/act3DSC_1088.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1088.jpg">
+    <title><![CDATA[Andrea]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1093.jpg"
+	thumbURL="thumbs/act3DSC_1093.jpg"
+	linkURL="images/act3DSC_1093.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1093.jpg">
+    <title><![CDATA[Steph]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1169.jpg"
+	thumbURL="thumbs/act3DSC_1169.jpg"
+	linkURL="images/act3DSC_1169.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1169.jpg">
+    <title><![CDATA[Nathan]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1178.jpg"
+	thumbURL="thumbs/act3DSC_1178.jpg"
+	linkURL="images/act3DSC_1178.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1178.jpg">
+    <title><![CDATA[Michelle]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1572.jpg"
+	thumbURL="thumbs/act3DSC_1572.jpg"
+	linkURL="images/act3DSC_1572.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1572.jpg">
+    <title><![CDATA[Finale]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/act3DSC_1707.jpg"
+	thumbURL="thumbs/act3DSC_1707.jpg"
+	linkURL="images/act3DSC_1707.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/act3DSC_1707.jpg">
+    <title><![CDATA[FInale]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/endDSC_2010.jpg"
+	thumbURL="thumbs/endDSC_2010.jpg"
+	linkURL="images/endDSC_2010.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/endDSC_2010.jpg">
+    <title><![CDATA[Finale]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/endDSC_2412.jpg"
+	thumbURL="thumbs/endDSC_2412.jpg"
+	linkURL="images/endDSC_2412.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/clairehuang/Downloads/donq19/endDSC_2412.jpg">
+    <title><![CDATA[Full cast]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
