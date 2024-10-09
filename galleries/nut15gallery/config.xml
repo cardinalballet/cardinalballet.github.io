@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Nutcracker 2015"
+
+>
+  <image imageURL="images/Arabian1.jpg"
+	thumbURL="thumbs/Arabian1.jpg"
+	linkURL="images/Arabian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian1.jpg">
+    <title><![CDATA[Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arabian2.jpg"
+	thumbURL="thumbs/Arabian2.jpg"
+	linkURL="images/Arabian2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian2.jpg">
+    <title><![CDATA[Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arabian3.jpg"
+	thumbURL="thumbs/Arabian3.jpg"
+	linkURL="images/Arabian3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian3.jpg">
+    <title><![CDATA[Madelaine and Bernardo in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arabian4.jpg"
+	thumbURL="thumbs/Arabian4.jpg"
+	linkURL="images/Arabian4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian4.jpg">
+    <title><![CDATA[Madelaine and Nathan in Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arabian5.jpg"
+	thumbURL="thumbs/Arabian5.jpg"
+	linkURL="images/Arabian5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian5.jpg">
+    <title><![CDATA[Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arabian6.jpg"
+	thumbURL="thumbs/Arabian6.jpg"
+	linkURL="images/Arabian6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Arabian6.jpg">
+    <title><![CDATA[Arabian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chinese1.jpg"
+	thumbURL="thumbs/Chinese1.jpg"
+	linkURL="images/Chinese1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Chinese1.jpg">
+    <title><![CDATA[Chinese]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chinese2.jpg"
+	thumbURL="thumbs/Chinese2.jpg"
+	linkURL="images/Chinese2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Chinese2.jpg">
+    <title><![CDATA[Chinese]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Group1.jpg"
+	thumbURL="thumbs/Group1.jpg"
+	linkURL="images/Group1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Group1.jpg">
+    <title><![CDATA[Group Photo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Group2.jpg"
+	thumbURL="thumbs/Group2.jpg"
+	linkURL="images/Group2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Group2.jpg">
+    <title><![CDATA[Group Photo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons1.jpg"
+	thumbURL="thumbs/Mirlitons1.jpg"
+	linkURL="images/Mirlitons1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons1.jpg">
+    <title><![CDATA[Michelle Lam and Emma in Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons2.jpg"
+	thumbURL="thumbs/Mirlitons2.jpg"
+	linkURL="images/Mirlitons2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons2.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons3.jpg"
+	thumbURL="thumbs/Mirlitons3.jpg"
+	linkURL="images/Mirlitons3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons3.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons4.jpg"
+	thumbURL="thumbs/Mirlitons4.jpg"
+	linkURL="images/Mirlitons4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons4.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons5.jpg"
+	thumbURL="thumbs/Mirlitons5.jpg"
+	linkURL="images/Mirlitons5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons5.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons6.jpg"
+	thumbURL="thumbs/Mirlitons6.jpg"
+	linkURL="images/Mirlitons6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons6.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mirlitons7.jpg"
+	thumbURL="thumbs/Mirlitons7.jpg"
+	linkURL="images/Mirlitons7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Mirlitons7.jpg">
+    <title><![CDATA[Mirlitons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Russian1.jpg"
+	thumbURL="thumbs/Russian1.jpg"
+	linkURL="images/Russian1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Russian1.jpg">
+    <title><![CDATA[Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Russian2.jpg"
+	thumbURL="thumbs/Russian2.jpg"
+	linkURL="images/Russian2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Russian2.jpg">
+    <title><![CDATA[Bernardo and Andrew in Russian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow1.jpg"
+	thumbURL="thumbs/Snow1.jpg"
+	linkURL="images/Snow1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow1.jpg">
+    <title><![CDATA[Madelaine and Andrew in Snow Pas de Deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow2.jpg"
+	thumbURL="thumbs/Snow2.jpg"
+	linkURL="images/Snow2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow2.jpg">
+    <title><![CDATA[Madelaine and Andrew in Snow Pas de Deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow3.jpg"
+	thumbURL="thumbs/Snow3.jpg"
+	linkURL="images/Snow3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow3.jpg">
+    <title><![CDATA[Madelaine and Andrew in Snow Pas de Deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow4.jpg"
+	thumbURL="thumbs/Snow4.jpg"
+	linkURL="images/Snow4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow4.jpg">
+    <title><![CDATA[Madelaine and Andrew in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow5.jpg"
+	thumbURL="thumbs/Snow5.jpg"
+	linkURL="images/Snow5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow5.jpg">
+    <title><![CDATA[Grace in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow6.jpg"
+	thumbURL="thumbs/Snow6.jpg"
+	linkURL="images/Snow6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow6.jpg">
+    <title><![CDATA[Nicole and Alli in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow7.jpg"
+	thumbURL="thumbs/Snow7.jpg"
+	linkURL="images/Snow7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow7.jpg">
+    <title><![CDATA[Michelle Lu in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow8.jpg"
+	thumbURL="thumbs/Snow8.jpg"
+	linkURL="images/Snow8.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow8.jpg">
+    <title><![CDATA[Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow9.jpg"
+	thumbURL="thumbs/Snow9.jpg"
+	linkURL="images/Snow9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow9.jpg">
+    <title><![CDATA[Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow10.jpg"
+	thumbURL="thumbs/Snow10.jpg"
+	linkURL="images/Snow10.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow10.jpg">
+    <title><![CDATA[Madelaine and Andrew in Snow Pas de Deux]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snow11.jpg"
+	thumbURL="thumbs/Snow11.jpg"
+	linkURL="images/Snow11.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Snow11.jpg">
+    <title><![CDATA[Michelle R. and Nicole in Snow]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Spanish1.jpg"
+	thumbURL="thumbs/Spanish1.jpg"
+	linkURL="images/Spanish1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Spanish1.jpg">
+    <title><![CDATA[Spanish]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Spanish2.jpg"
+	thumbURL="thumbs/Spanish2.jpg"
+	linkURL="images/Spanish2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/emmadauterman/Desktop/CBC Nutcracker/Spanish2.jpg">
+    <title><![CDATA[Spanish]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
